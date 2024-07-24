@@ -1,0 +1,47 @@
+.inline {
+    display: inline;
+}
+
+#topSection {
+    background: url(catbackground.jpeg) center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 1500px;
+    color: white;
+}
+
+#meowCoinTitle {
+    padding-left: 10px;
+}
+
+#logo {
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.meowCoinBlock {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.catPic {
+    width: auto;
+    height: 100px;
+}
+
+.rowSpace {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: dodgerblue;
+}
+
+#signuprow {
+    background-color: darkviolet;
+    padding-bottom: 20px;
+}
+
+.whiteText {
+    color: white;
+}
